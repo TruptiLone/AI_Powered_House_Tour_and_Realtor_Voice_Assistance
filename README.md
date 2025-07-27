@@ -1,0 +1,2 @@
+# AI_Powered_House_Tour_and_Realtor_Voice_Assistance
+The objective of this project is to develop a voice-enabled AI assistant that guides prospective homebuyers through immersive, informative property tours. The system leverages conversational AI, real-time speech processing, and retrieval-augmented generation (RAG) to provide contextual information about property features, layout, and amenities. 
